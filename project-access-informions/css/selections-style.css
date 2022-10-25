@@ -1,0 +1,42 @@
+@font-face {
+    font-family: Mitr;
+    src: url(../font/Mitr-Light.ttf);
+}
+*{
+    font-family: Mitr;
+    margin: 0;
+    padding: 0;
+
+}
+.control-menu {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    font-weight: 600;
+}
+.control-intro {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px 0px;
+}
+.intro {
+    text-align: center;
+    border-bottom: 1px solid rgb(221, 221, 221);
+
+}
+
+.contro-contai {
+    max-width: 420px;
+    width: 100%;
+    margin: 0 auto;
+
+
+}
+.alert-link {
+    text-decoration: none;
+
+}
+.alert-link:hover {
+    text-decoration: underline;
+}

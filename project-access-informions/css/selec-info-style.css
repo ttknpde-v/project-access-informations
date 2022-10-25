@@ -1,0 +1,25 @@
+@font-face {
+    font-family: Mitr;
+    src: url(../font/Mitr-Light.ttf);
+}
+*{
+    font-family: Mitr;
+    margin: 0;
+    padding: 0;
+
+}
+.control-menu {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    font-weight: 600;
+}
+.control-list {
+    max-width: 650px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+.list-group {
+    text-align: center;  
+}

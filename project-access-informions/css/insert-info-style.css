@@ -1,0 +1,68 @@
+@font-face {
+    font-family: Mitr;
+    src: url(../font/Mitr-Light.ttf);
+}
+* {
+    font-family: Mitr;
+    margin: 0;
+    padding: 0;
+}
+.control-menu {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    font-weight: 600;
+}
+.control-alert {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 30px 0px;
+}
+.intro {
+    
+    text-align: center;
+    border-bottom: 1px solid rgb(221, 221, 221);
+
+}
+.control-form-check {
+    display: grid;
+    grid-template-columns: repeat(4,1fr);
+    grid-gap: 10px;
+    max-width: 450px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 35px;
+}
+.control-form-group {
+    display: grid;
+    grid-template-rows: repeat(3,1fr);
+    grid-gap: 18px;
+    max-width: 360px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+.control-btn {
+
+    max-width: 140px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+.control-result {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 25px;
+    padding: 15px 15px;
+}
+.control-result h3 {
+    letter-spacing: 3px;
+}
+.storng-message {
+    display: block;
+    padding: 10px 0;
+}

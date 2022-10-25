@@ -1,0 +1,89 @@
+@font-face {
+    font-family: Mitr;
+    src: url(../font/Mitr-Light.ttf);
+}
+* {
+    font-family: Mitr;
+    margin: 0;
+    padding: 0;
+}
+.control-menu {
+    max-width: 960px;
+    width: 100%;
+    margin: 0 auto;
+    font-weight: 600;
+}
+
+.control-alert {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto;
+
+}
+.intro {
+    
+    text-align: center;
+    border-bottom: 1px solid rgb(221, 221, 221);
+
+}
+.decribe-from {
+    margin-top: 20px;
+}
+.control-form-group {
+
+    max-width: 360px;
+    width: 100%;
+    margin: 0 auto;
+    display: grid;
+    grid-row-gap: 10px;
+    padding: 20px 0px;
+
+}
+.control-btn {
+
+    max-width: max-content;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 10px;
+}
+
+.input-group-texts {
+    text-align: center;
+}
+.btn-group-contr {
+    max-width: fit-content;
+    width: 100%;
+    margin: 0 auto;
+    padding: 8px 0px;
+    margin-left: 165px;
+}
+.control-form-update {
+    max-width: 400px;
+    width: 100%;
+    margin: 0 auto;
+    padding: 20px 0px;
+
+}
+.control-btn {
+
+    max-width: 140px;
+    width: 100%;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+.control-result {
+    max-width: 500px;
+    width: 100%;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 25px;
+    padding: 15px 15px;
+}
+.control-result h3 {
+    letter-spacing: 3px;
+}
+.storng-message {
+    display: block;
+    padding: 10px 0;
+}
