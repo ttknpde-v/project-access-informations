@@ -29,7 +29,7 @@
                         <a class="dropdown-item" href="../units/insert-info.php">insert informations</a>
                         <a class="dropdown-item" href="../units/selec-info.php">select informations</a>
                         <a class="dropdown-item" href="../units/update-info.php">update informations</a>
-                        <a class="dropdown-item" href="">four</a>
+                        <a class="dropdown-item" href="../units/delete-info.php">delete informations">four</a>
 
                     </div>
                 </li>
