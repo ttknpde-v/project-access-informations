@@ -1,2 +1,2 @@
 # project-program-access-informations-people
-html css / php sql
+html css php sql (basic)
